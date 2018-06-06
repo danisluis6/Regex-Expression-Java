@@ -28,3 +28,20 @@
 ![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/42.png)
 
 - It means [abc] => You want to check exist one of characters in string. Don't use it frequently.
+
+## Understand `[abc][vz]`
+
+![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/5.png)
+![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/51.png)
+![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/52.png)
+
+- If we find two case => will match or no match. IF only one case.
+
+## Understand `[^abc]`
+
+![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/6.png)
+![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/61.png)
+![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/62.png)
+![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/63.png)
+
+
