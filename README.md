@@ -15,9 +15,14 @@
 ![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/21.png)
 ![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/22.png)
 
-When to use it:
-1. When one object changes its state,then all other dependents object must automatically change their state to maintain consistency
-2. When subject doesn't know about number of observers it has.
-3. When an object should be able to notify other objects without knowing who objects are.
+## Understand `^regex`
 
+![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/3.png)
+![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/31.png)
+![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/32.png)
 
+## Understand `[abc]`
+
+![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/4.png)
+![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/41.png)
+![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/42.png)
