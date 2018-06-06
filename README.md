@@ -26,3 +26,5 @@
 ![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/4.png)
 ![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/41.png)
 ![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/42.png)
+
+- It means [abc] => You want to check exist one of characters in string. Don't use it frequently.
