@@ -7,9 +7,13 @@
 ![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/11.png)
 ![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/12.png)
 
-## Understand `.`
+## Understand `^regex`
 
 <img src = "https://github.com/danisluis6/RxJava-Introduction/blob/level_research_reactive/Deeply/x.png" width="75px" height="40px"/> 
+
+![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/2.png)
+![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/21.png)
+![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/22.png)
 
 When to use it:
 1. When one object changes its state,then all other dependents object must automatically change their state to maintain consistency
