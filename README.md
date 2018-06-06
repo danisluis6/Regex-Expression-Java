@@ -1,12 +1,13 @@
 # REGEX JAVA [![Build Status](https://travis-ci.org/nomensa/jquery.hide-show.svg)](https://travis-ci.org/nomensa/jquery.hide-show.svg?branch=master)
 
    ```Regex Java In Android.```
-## Understand `Observable`
+## Understand `.`
 
-``The basic building blocks of reactive code are Observables and Subscribers. The Observable class is the <b>source of data</b> and the Subscriber class is <b>the consumer</b>.``
-![alt text](https://github.com/danisluis6/RxJava-Introduction/blob/level_research_reactive/Deeply/1.png)
+![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/1.png)
+![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/11.png)
+![alt text](https://github.com/danisluis6/Regex-Expression-Java/blob/master/img/12.png)
 
-## We Research about "Observe Design Pattern"
+## Understand `.`
 
 <img src = "https://github.com/danisluis6/RxJava-Introduction/blob/level_research_reactive/Deeply/x.png" width="75px" height="40px"/> 
 
