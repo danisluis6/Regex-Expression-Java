@@ -29,3 +29,12 @@ while(matcher.find())
     System.out.println("Result: "+ matcher.group());
 }
 ```
+
+- Test regex by website https://www.regextester.com/
+```java
+\s+\d{2}\:\d{2}\s+
+```
+
+```
+22/06 Brazil 19:00 Costa Ric
+```
