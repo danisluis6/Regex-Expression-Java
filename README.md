@@ -33,6 +33,7 @@ while(matcher.find())
 - Test regex by website https://www.regextester.com/
 ```java
 \s+\d{2}\:\d{2}\s+
+\s{0}\d{2}\:\d{2}\s{0}
 ```
 
 ```
