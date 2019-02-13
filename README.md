@@ -17,3 +17,15 @@ public class Main {
 	}
 }
 ```
+
+- Advance
+
+```java
+String mydata = "22/06 Brazil 19:00 Costa Ric 14:22 Allo";
+Pattern pattern = Pattern.compile("\\s+\\d{2}\\:\\d{2}\\s+");
+Matcher matcher = pattern.matcher(mydata);
+while(matcher.find())
+{
+    System.out.println("Result: "+ matcher.group());
+}
+```
